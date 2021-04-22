@@ -9,6 +9,6 @@ I modified the model by using _Dilated Convolution_ which could **raise the accu
 
 The training process is visualized as follows:
 
-<img src="https://github.com/YJiangcm/improved_DeepLOB/blob/master/outputs/dilated_FI-2010%20Loss%20Graph.png" width="500" height="320">
+<img src="https://github.com/YJiangcm/improved_DeepLOB/blob/master/outputs/dilated_FI-2010%20Loss%20Graph.png" width="500" height="340">
 
-<img src="https://github.com/YJiangcm/improved_DeepLOB/blob/master/outputs/dilated_FI-2010%20Accuracy%20Graph.png" width="500" height="320">
+<img src="https://github.com/YJiangcm/improved_DeepLOB/blob/master/outputs/dilated_FI-2010%20Accuracy%20Graph.png" width="500" height="340">
